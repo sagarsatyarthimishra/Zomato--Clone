@@ -43,7 +43,7 @@ A simple Zomato-inspired food delivery web application frontend. This project ai
 
 - HTML5
 - CSS3
-- JavaScript (if applicable)
+- JavaScript 
 
 ## Contributing
 
